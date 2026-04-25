@@ -1,2 +1,2 @@
-# Machine-learning-self-study
+# Machine_learning_self-study
 学完这个学那个， 学完那个全忘了
